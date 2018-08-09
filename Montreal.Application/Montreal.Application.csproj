@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="6.2.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Montreal.Domain\Montreal.Domain.csproj" />
+    <ProjectReference Include="..\Montreal.Infra.Data\Montreal.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>

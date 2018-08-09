@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="2.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Montreal.Application\Montreal.Application.csproj" />
+    <ProjectReference Include="..\Montreal.Domain\Montreal.Domain.csproj" />
+    <ProjectReference Include="..\Montreal.Infra.CrossCutting.Bus\Montreal.Infra.CrossCutting.Bus.csproj" />
+    <ProjectReference Include="..\Montreal.Infra.Data\Montreal.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>
