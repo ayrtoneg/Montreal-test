@@ -15,7 +15,6 @@
 - Domain Driven Design (Layers and Domain Model Pattern)
 - Domain Events
 - CQRS
-- Event Sourcing
 - Unit of Work
 - Repository and Generic Repository
 
