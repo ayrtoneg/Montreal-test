@@ -2,19 +2,12 @@
 
 ### Technologies implemented:
 -ASP.NET Core 2.0 (with .NET Core)
-
 -ASP.NET WebApi Core
-
 -Entity Framework Core 2.0
-
 -.NET Core Native DI
-
 -AutoMapper
-
 -FluentValidator
-
 -MediatR
-
 -Swagger UI
 
 ### Architecture:
