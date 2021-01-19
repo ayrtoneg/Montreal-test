@@ -22,8 +22,5 @@
 - To run, just open the solution in Visual Studio 2017, build the solution to restore the packages and run the project (press f5 button).
 
 
-### Tests
-- Unfortunately it was not possible to put tests, because I had only one night to develop the project (since I work during the week and the time was short). If I have one more night, I can implement the necessary tests.
-
 ### Endpoints
 - To see the endpoints, just run the project and you will be redirect to swagger UI with all endpoints or put /swagger into the url
